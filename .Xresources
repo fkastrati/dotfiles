@@ -21,9 +21,9 @@
 ! *boldFont: xft:Source Code Pro:pixelsize=11:style=Bold
 ! *italicFont: xft:Source Code Pro:pixelsize=11:style=Bold
 
- urxvt*font: xft:DejaVu Sans Mono:pixelsize=12:style=Book
- urxvt*boldFont: xft:DejaVu Sans Mono:pixelsize=12:style=Bold
- urxvt*italicFont: xft:DejaVu Sans Mono:pixelsize=12:style=Oblique
+ urxvt*font: xft:DejaVu Sans Mono:pixelsize=13:style=Book
+ urxvt*boldFont: xft:DejaVu Sans Mono:pixelsize=13:style=Bold
+ urxvt*italicFont: xft:DejaVu Sans Mono:pixelsize=13:style=Oblique
 
 ! urxvt*font: -xos4-terminus-medium-r-normal--0-0-72-72-c-0-iso10646-1
 ! urxvt*boldFont: -xos4-terminus-bold-r-normal--0-0-72-72-c-0-iso10646-1
